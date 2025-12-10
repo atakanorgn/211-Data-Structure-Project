@@ -1,0 +1,1 @@
+// .cpp → kaynak dosyası (o fonksiyonların içinin yazıldığı yer)

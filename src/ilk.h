@@ -1,0 +1,1 @@
+// .h → header dosyası (fonksiyonların, class’ların imzaları / tanımları)
